@@ -41,4 +41,4 @@ https://codeclimate.com/github/khouri/SIN5005_topicos_eng_software
 
 
 https://github.com/cucumber/cucumber-rails/issues/127
-falta o rack features, precisa adicionar o data-cleaner para evitar quebrar
+falta o rack features, precisa adicionar o data-cleaner para evitar quebrar 
