@@ -12,7 +12,7 @@ rails new topicos_eng_software -T
 rspec e capibara:
 https://medium.com/@anchietajunior/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-b%C3%A1sica-rspec-e-capybara-no-rails-5-3865437c86d0
 
-1. add gems
+1. add gems.   
 
 2. bundle install
 
