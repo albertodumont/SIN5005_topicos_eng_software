@@ -37,7 +37,7 @@ gem 'jasmine'
 
 gem 'cucumber'
 gem 'database_cleaner'
-
+gem 'coveralls', require: false
 gem 'travis'
 
 group :development, :test do
