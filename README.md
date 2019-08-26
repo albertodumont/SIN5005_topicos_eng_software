@@ -43,10 +43,18 @@ https://codeclimate.com/github/khouri/SIN5005_topicos_eng_software
 https://github.com/cucumber/cucumber-rails/issues/127
 falta o rack features, precisa adicionar o data-cleaner para evitar quebrar 
 
-
+Coveralls:
 [![Coverage Status](https://coveralls.io/repos/github/khouri/SIN5005_topicos_eng_software/badge.svg?branch=master)](https://coveralls.io/github/khouri/SIN5005_topicos_eng_software?branch=master)
 
 
-
+Travis:
 [![Build Status](https://travis-ci.org/khouri/SIN5005_topicos_eng_software.svg?branch=master)](https://travis-ci.org/khouri/SIN5005_topicos_eng_software)
+
+Code Climate Maintainability:
+[![Maintainability](https://api.codeclimate.com/v1/badges/66f2e501fea4d92baebddfab2ae4ab19defe4de6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+
+Code Climate Test Coverage:
+[![Test Coverage](https://api.codeclimate.com/v1/badges/66f2e501fea4d92baebddfab2ae4ab19defe4de6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
+
+
 
